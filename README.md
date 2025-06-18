@@ -19,14 +19,22 @@ I received my degree in **Computer Science Engineering** from the Military Insti
 - AI fundamentals & building intelligent apps
 
 ---
+## 📊 GitHub Stats
+
+![Nuraia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuraia&show_icons=true&theme=react&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuraia&layout=compact&theme=react&hide_border=true)
+
+
+
+
+
 
 ### 🛠 Tech Stack
 ```js
 Languages:    JavaScript • C# • Java • Python (basic) • C++
 Frameworks:   React.js • Unity3D • Spring Boot (beginner)
 Tools:        Git • Figma • Firebase • Vite • VS Code
-
-
 
 
 
