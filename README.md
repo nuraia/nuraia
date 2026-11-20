@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="./assets/nuraia-intro.gif" alt="Animated pixel-anime girl coding with a warm cup of chai" width="100%" />
+  <img src="./nuraia-intro.gif" alt="Animated pixel-anime girl coding with a warm cup of chai" width="100%" />
 
   <h1>Nuraia Nahrin Fahmida</h1>
 
@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/dual-focus.svg" width="100%" alt="Research and engineering expertise illustrated as two graphic cards" />
+  <img src="./dual-focus.svg" width="100%" alt="Research and engineering expertise illustrated as two graphic cards" />
 </div>
 
 ### Hello, I'm Nuraia.
@@ -24,7 +24,7 @@ I'm a **Computer Science & Engineering graduate from MIST** and a software engin
 <br>
 
 <div align="center">
-  <img src="./assets/selected-work.svg" width="100%" alt="Four selected projects: Light Canvas, QuietFrame, PERSIDANI and cardiac imaging" />
+  <img src="./selected-work.svg" width="100%" alt="Four selected projects: Light Canvas, QuietFrame, PERSIDANI and cardiac imaging" />
 </div>
 
 <p align="center">
@@ -34,7 +34,7 @@ I'm a **Computer Science & Engineering graduate from MIST** and a software engin
 <br>
 
 <div align="center">
-  <img src="./assets/journey.svg" width="100%" alt="Visual career timeline from Unity development to web applications to Samsung SmartThings" />
+  <img src="./journey.svg" width="100%" alt="Visual career timeline from Unity development to web applications to Samsung SmartThings" />
 </div>
 
 <br>
