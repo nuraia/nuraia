@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="166" viewBox="0 0 960 166">
+<rect width="960" height="166" rx="20" fill="#152938"/>
+<text x="27" y="37" fill="#f2eadb" font-family="Arial,sans-serif" font-size="23" font-weight="bold">The journey so far</text>
+<path d="M75 82H884" stroke="#5a7f7d" stroke-width="4" stroke-linecap="round"/>
+<g fill="#d8ae83"><circle cx="90" cy="82" r="9"/><circle cx="480" cy="82" r="9"/><circle cx="865" cy="82" r="9"/></g>
+<g font-family="Arial,sans-serif">
+<text x="27" y="111" fill="#f3f2e9" font-size="17" font-weight="bold">Brain Station 23</text><text x="27" y="134" fill="#a8c3be" font-size="13">Unity Developer · 2024–25</text>
+<text x="404" y="111" fill="#f3f2e9" font-size="17" font-weight="bold">Technonext</text><text x="404" y="134" fill="#a8c3be" font-size="13">Web Engineering · 2025</text>
+<text x="736" y="111" fill="#f3f2e9" font-size="17" font-weight="bold">Samsung R&amp;D</text><text x="736" y="134" fill="#a8c3be" font-size="13">Software Engineer · Now</text>
+</g>
+</svg>
