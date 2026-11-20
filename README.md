@@ -1,41 +1,58 @@
- # 👋 Hi, I'm Nuraia Nahrin
+ <div align="center">
+  <img src="./assets/nuraia-intro.gif" alt="Animated pixel-anime girl coding with a warm cup of chai" width="100%" />
 
-I'm a **Junior Software Engineer** at [Technonext Ltd](https://technonext.com.bd/) (A US-Bangla Concern Company), currently working with the **Foodi mobile team** and actively learning **React.js**. I love turning ideas into interactive, user-friendly experiences — whether through clean UI or purposeful code.
-I received my degree in **Computer Science Engineering** from the Military Institute of Science and Technology.
+  <h1>Nuraia Nahrin Fahmida</h1>
 
----
+  <p><strong>Software Engineer @ Samsung R&D &nbsp; | &nbsp; Aspiring PhD Researcher</strong></p>
+  <p><em>Exploring how machines see, learn, and interact with people.</em></p>
 
-### 💻 What I'm Working On:
-- 💡 Exploring **React.js**, **Tailwind CSS**
-- 🧠 Diving into **DSA** and problem solving to strengthen my logic
-- 🤖 Exploring **AI concepts** and how to apply them in real-world projects
+  <a href="https://nuraia.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-Explore_my_work-223C43?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nuraia-nahrin-fahmida-32766018a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Let's_connect-456E73?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:nuraianahrinfh@email.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-Say_hello-9B765B?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
----
+<br>
 
-### 🌱 What I'm Learning:
-- React Ecosystem (Hooks, Router, State Management)
-- Git & GitHub (for better collaboration)
-- Building real-world projects with clean, reusable code
-- AI fundamentals & building intelligent apps
+<div align="center">
+  <img src="./assets/dual-focus.svg" width="100%" alt="Research and engineering expertise illustrated as two graphic cards" />
+</div>
 
----
-## 📊 GitHub Stats
+### Hello, I'm Nuraia.
 
-![Nuraia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuraia&show_icons=true&theme=react&hide_border=true)
+I'm a **Computer Science & Engineering graduate from MIST** and a software engineer building **SmartThings experiences on Windows and iOS**. Beyond production code, I investigate **human-centered AI**—particularly computer vision, intelligent interactions, XR, and accessible computing.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuraia&layout=compact&theme=react&hide_border=true)
+<br>
 
+<div align="center">
+  <img src="./assets/selected-work.svg" width="100%" alt="Four selected projects: Light Canvas, QuietFrame, PERSIDANI and cardiac imaging" />
+</div>
 
+<p align="center">
+  <sub><strong>Publication notes:</strong> Light Canvas — ACM, 2025 &nbsp;·&nbsp; Educational Gaming for Child Safety — IEEE, 2025 &nbsp;·&nbsp; QuietFrame and PERSIDANI — under review</sub>
+</p>
 
+<br>
 
+<div align="center">
+  <img src="./assets/journey.svg" width="100%" alt="Visual career timeline from Unity development to web applications to Samsung SmartThings" />
+</div>
 
+<br>
 
-### 🛠 Tech Stack
-```js
-Languages:    JavaScript • C# • Java • Python (basic) • C++
-Frameworks:   React.js • Unity3D • Spring Boot (beginner)
-Tools:        Git • Figma • Firebase • Vite • VS Code
+<div align="center">
+  <h3>My working toolkit</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,opencv,sklearn,unity,cs,swift,react,nextjs,flutter,firebase,figma&perline=11" alt="Python, OpenCV, scikit-learn, Unity, C sharp, Swift, React, Next.js, Flutter, Firebase and Figma" />
+  </p>
+  <sub>AI & Computer Vision &nbsp; • &nbsp; Interactive Systems &nbsp; • &nbsp; Product Engineering</sub>
+</div>
 
+<br>
 
+<div align="center">
+  <a href="https://nuraia.github.io/"><strong>View portfolio</strong></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:nuraianahrinfh@email.com"><strong>Discuss research or collaboration</strong></a>
 
-
+  <p><em>Thoughtful research. Useful technology. Human-centered design.</em></p>
+</div>
