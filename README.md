@@ -4,7 +4,7 @@
   <h1>Nuraia Nahrin Fahmida</h1>
 
   <p><strong>Software Engineer @ Samsung R&D &nbsp; | &nbsp; Aspiring PhD Researcher</strong></p>
-  <p><em>Exploring how machines see, learn, and interact with people.</em></p>
+  
 
   <a href="https://nuraia.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-Explore_my_work-223C43?style=for-the-badge&logo=githubpages&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/nuraia-nahrin-fahmida-32766018a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Let's_connect-456E73?style=for-the-badge&logo=linkedin&logoColor=white"></a>
